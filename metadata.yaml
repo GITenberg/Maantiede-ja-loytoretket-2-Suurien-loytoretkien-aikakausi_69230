@@ -1,0 +1,33 @@
+_repo: Maantiede-ja-loytoretket-2-Suurien-loytoretkien-aikakausi_69230
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inha, Into Konrad
+    aliases:
+    - Inha, I. K. (Into Konrad)
+    - Nyström, Into Konrad
+    - Nystrom, Into Konrad
+    birthdate: 1865
+    deathdate: 1930
+    gutenberg_agent_id: '4411'
+    url: http://www.gutenberg.org/2009/agents/4411
+    wikipedia: https://fi.wikipedia.org/wiki/I._K._Inha
+description: ''
+gutenberg_issued: '2022-10-25'
+identifiers:
+  gutenberg: '69230'
+language: fi
+pgterms:marc905: 20220621090258inha
+pgterms:marc906: '1914'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: 'Finland: WSOY,1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography'
+- !lcc 'G'
+- GITenberg
+title: 'Maantiede ja löytöretket 2: Suurien löytöretkien aikakausi'
+url: http://www.gutenberg.org/ebooks/69230
